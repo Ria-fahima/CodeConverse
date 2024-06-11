@@ -4,8 +4,8 @@ export default function Page() {
   return <SignIn
           appearance={{
             variables: {
-              colorPrimary: "#4B2550",
-              colorTextSecondary: "#4B2550"
+              colorPrimary: "#111827",
+              colorTextSecondary: "#111827"
     }
   }}/>;
 }
